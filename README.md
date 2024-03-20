@@ -27,3 +27,4 @@ basis points for clients likely to opt out by providing relevant product feature
 – Implemented a personalized recommendation model that suggested novel banking products to customers based on their data and history. It led to a 30 per cent increase in conversion rate and about 1,000,000 increase
 in monthly revenue
 
+
