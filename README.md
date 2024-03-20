@@ -1,11 +1,7 @@
 # Data Scientist
 
-### Education
-Statistics, MSc
+#### Technical Skills: Python, SQL, R, SAS, SPSS and SQL 
 
-### Work Experience
-Graduate Teaching Assistant @ Georgia State University
--big impact project 1!
--big impact project 2!
-
-##
+## Education							       		
+- M.S., Statistics	| Georgia State Universiy (_May 2024_)	 			        		
+- B.S., Electrical/Electronic Engineering | University of Benin (_October 2018_)
